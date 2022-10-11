@@ -19,7 +19,6 @@ function Favorites() {
     // setDatas(newList);
     // localStorage.setItem("favMovies", newList);
   }
-  // Fungsi buat menghapus film dari list favorite, use method filter
 
   return (
     <Container>
